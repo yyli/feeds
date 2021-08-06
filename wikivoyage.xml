@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikivoyage.org/wiki/Main_Page</id>
     <title>Wikivoyage recommendations</title>
-    <updated>2021-08-03T17:47:23.744Z</updated>
+    <updated>2021-08-06T05:33:39.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://en.wikivoyage.org/favicon.ico</icon>
+    <icon>https://en.wikivoyage.org/wiki/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Portland, Oregon]]></title>
         <id>https://en.wikivoyage.org/wiki/Portland_(Oregon)</id>
